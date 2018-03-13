@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  CustomTableFooterLabelSizing
-//
-//  Created by Natalia Harateh on 3/13/18.
-//  Copyright © 2018 Natalia Harateh. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

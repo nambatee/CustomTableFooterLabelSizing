@@ -12,6 +12,8 @@
 		7A568AE820587F210055BF16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A568AE620587F210055BF16 /* Main.storyboard */; };
 		7A568AEA20587F210055BF16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A568AE920587F210055BF16 /* Assets.xcassets */; };
 		7A568AED20587F210055BF16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A568AEB20587F210055BF16 /* LaunchScreen.storyboard */; };
+		7A568AF5205882A00055BF16 /* CustomFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A568AF4205882A00055BF16 /* CustomFooter.swift */; };
+		7A568AF7205882AD0055BF16 /* CustomFooter.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A568AF6205882AD0055BF16 /* CustomFooter.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		7A568AE920587F210055BF16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A568AEC20587F210055BF16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A568AEE20587F210055BF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A568AF4205882A00055BF16 /* CustomFooter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFooter.swift; sourceTree = "<group>"; };
+		7A568AF6205882AD0055BF16 /* CustomFooter.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomFooter.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				7A568AE220587F210055BF16 /* AppDelegate.swift */,
 				7A568AE420587F210055BF16 /* ViewController.swift */,
+				7A568AF4205882A00055BF16 /* CustomFooter.swift */,
+				7A568AF6205882AD0055BF16 /* CustomFooter.xib */,
 				7A568AE620587F210055BF16 /* Main.storyboard */,
 				7A568AE920587F210055BF16 /* Assets.xcassets */,
 				7A568AEB20587F210055BF16 /* LaunchScreen.storyboard */,
@@ -126,6 +132,7 @@
 				7A568AED20587F210055BF16 /* LaunchScreen.storyboard in Resources */,
 				7A568AEA20587F210055BF16 /* Assets.xcassets in Resources */,
 				7A568AE820587F210055BF16 /* Main.storyboard in Resources */,
+				7A568AF7205882AD0055BF16 /* CustomFooter.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A568AE520587F210055BF16 /* ViewController.swift in Sources */,
+				7A568AF5205882A00055BF16 /* CustomFooter.swift in Sources */,
 				7A568AE320587F210055BF16 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
